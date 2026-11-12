@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/landing-hero.png" alt="Landing Luma Gen" width="820" />
+  <img src="https://i.ibb.co/zhwYxf1V/landing-hero.png" alt="Landing Luma Gen" width="820" />
 </p>
 
 <p align="center">
@@ -84,23 +84,23 @@ O isolamento multi-tenant por `company_id` (com RLS no Postgres) é a base de se
 ## Principais interfaces
 
 <p align="center">
-  <img src="docs/screenshots/landing-hero.png" alt="Landing Luma Gen" width="780" />
+  <img src="https://i.ibb.co/zhwYxf1V/landing-hero.png" alt="Landing Luma Gen" width="780" />
 </p>
 <p align="center"><em><strong>Landing Luma Gen</strong> — apresentação da rede, parceiros e chamada para o produto.</em></p>
 
 <br/>
 
 <p align="center">
-  <img src="docs/screenshots/dashboard-login.png" alt="Login do painel" width="520" />
+  <img src="https://i.ibb.co/XfmbFjpR/dashboard-login.png" alt="Login do painel" width="520" />
 </p>
 <p align="center"><em><strong>Login do painel</strong> — acesso de operadoras e administradores à gestão de carregadores.</em></p>
 
 <br/>
 
 <p align="center">
-  <img src="docs/screenshots/mobile-welcome.png" alt="Boas-vindas do app Luma" width="320" />
+  <img src="https://i.ibb.co/tPvGmB9x/mobile-welcome.png" alt="Boas-vindas do app Luma" width="320" />
   &nbsp;&nbsp;
-  <img src="docs/screenshots/mobile-login.png" alt="Login do app Luma" width="320" />
+  <img src="https://i.ibb.co/JRyN71Qg/mobile-login.png" alt="Login do app Luma" width="320" />
 </p>
 <p align="center"><em><strong>App Luma</strong> — boas-vindas e login do motorista (mapa, carteira e recarga após autenticação).</em></p>
 
